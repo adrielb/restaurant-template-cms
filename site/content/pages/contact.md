@@ -14,3 +14,10 @@ Let us know when you'd like to book a reservation and we'll contact you within 3
   <textarea name="message" placeholder="When would you like to book a reservation?"></textarea>
   <button>Send</button>
 </form>
+
+<form name="contact" action="thank-you" netlify>
+  <input type="text" placeholder="Your Name" name="name">
+  <input type="email" placeholder="Your Email" name="email">
+  <textarea name="message" placeholder="When would you like to book a reservation?"></textarea>
+  <button>Send</button>
+</form>
